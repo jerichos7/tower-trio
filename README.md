@@ -1,2 +1,3 @@
 # tower-trio
-Privacy policy and support pages for the game Tower rio
+
+Privacy policy and support pages for the game Tower Trio.
